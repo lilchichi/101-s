@@ -10,18 +10,24 @@ Done, see you next week.
 
 Just kidding, a simpler explanation would be along the lines of "a blockchain is a database, that's shared across a number of computers that work together to make sure the data isn't messed with".
 
-# How does it work?
+# Ok, so how does that happen?
 
-We can break this down into several areas:
+So what will happen is that everytime that information is added, it's encrypted to make sure it's private & safe from being change, then shared across all the computers that make it a part of the network, once they've all confirmed the information is correct, that block gets added to the blockchain. 
 
-- Information is saved into block 
-- Saving iformation
-- That blocks holds a certain amount of information
-- Once the block fills up, a new block is created to hold the new information
-- All those blocks are connected in a chain, hence the name "blockchain"
+We can break this down into 4 main parts:
 
-OR 
+- Blocks
+- Encryption
+- Distributed Systems
+- Consensus
 
+## Blocks
+
+- Explanation
+- Analogy
+
+<!--- 
+ 
 - You have a business that is raising money
 - You recieve your first donations from 4 strangers 1️⃣, 2️⃣, 3️⃣ & 4️⃣
 - Those transactions are saved into a block 🔢
@@ -37,19 +43,27 @@ OR
 - Everyone can then see the account has been filled, so you all confirm you have reached your target
 - Then you start a new joint account for another holiday, ect.
 
-However with decentralisation it allows you to have the same level of trust without knowing anyone, since it's a computer programme/algorythm allowing all the computers to check they are all seeing the same information.
+-->
 
-- Peer-to-peer
-- Network
-- Cryptographic
-- Distributed
-- Consensus
+## Encryption
+
+- Explanation
+- Analogy
+
+## Distributed Systems
+
+- Explanation
+- Analogy
+
+## Consensus
+
+- Explanation
+- Analogy
 
 # How can it be used for?
 
 - Storing confidential information
 - Making sure information is not tampered with & changed
-- 
 
 # Why is it important?
 
