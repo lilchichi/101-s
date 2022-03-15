@@ -12,7 +12,20 @@ Just kidding, a simpler explanation would be along the lines of "a blockchain is
 
 # Ok, so how does that happen?
 
-So what will happen is that everytime that information is added, it's encrypted to make sure it's private & safe from being change, then shared across all the computers that make it a part of the network, once they've all confirmed the information is correct, that block gets added to the blockchain. 
+Transaction
+Distributed to network
+Verified
+Added in a group to a block
+Blocks are chained together, showing the history of transactions
+
+<!--- The Steps in a Blockchain Transaction
+Each blockchain transaction, no matter what industry the blockchain is being used for, goes through the same steps.
+
+The trade or transaction is recorded in a record. The record of the transaction lists the digital signatures from each party and other relevant details.
+The trade is checked to make sure it’s valid. The computers in the network look at the trade and make sure that it is a real trade or transaction. This is a decentralized process that occurs among the different nodes of the network.
+As each transaction is verified and accepted as being real, it’s added to a block. Each block contains a code called a hash that is unique to that block. The block carries its own hash and the hash of the block before it so that users always know where the block should be located in the chain.
+Once the block is complete—blocks can contain many transactions—it is added to the chain. The hash that it carries ensures that it is in proper chronological order. -->
+
 
 We can break this down into 4 main parts:
 
