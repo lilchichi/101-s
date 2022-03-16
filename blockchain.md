@@ -8,55 +8,63 @@ Buzzword of the century, probably.
 
 Done, see you next week.
 
-Just kidding, a simpler explanation would be along the lines of "a blockchain is a database, that's shared across a number of computers that work together to make sure the data isn't messed with".
+Just kidding, a simpler explanation would be along the lines of "a blockchain is a database made up of blocks of information, that's shared across a number of computers, who make that work together to make sure the data isn't messed with by making constant checks"
 
 # Ok, so how does that happen?
 
-Transaction
-Distributed to network
-Verified
-Added in a group to a block
-Blocks are chained together, showing the history of transactions
+1) The transaction is recorded in a record. 
+2) The computers in the network look at the trade and make sure that it is a real trade or transaction. This is a decentralized process that occurs among the different nodes of the network called consensus.
+3) As each transaction is verified and accepted as being real, it’s added to a block. 
+4) Each block contains a code called a hash that is unique to that block. The block carries its own hash and the hash of the block before it so that users always know where the block should be located in the chain.
+5) Once the block is complete it is added to the chain, the hash that it carries ensures that it is in proper chronological order.
 
-<!--- The Steps in a Blockchain Transaction
-Each blockchain transaction, no matter what industry the blockchain is being used for, goes through the same steps.
+If you have a good idea of what the blockchain is, then great. If you'd like to dig a little further, read below for a further breakdown with some analogies 👇
 
-The trade or transaction is recorded in a record. The record of the transaction lists the digital signatures from each party and other relevant details.
-The trade is checked to make sure it’s valid. The computers in the network look at the trade and make sure that it is a real trade or transaction. This is a decentralized process that occurs among the different nodes of the network.
-As each transaction is verified and accepted as being real, it’s added to a block. Each block contains a code called a hash that is unique to that block. The block carries its own hash and the hash of the block before it so that users always know where the block should be located in the chain.
-Once the block is complete—blocks can contain many transactions—it is added to the chain. The hash that it carries ensures that it is in proper chronological order. -->
-
-
-We can break this down into 4 main parts:
-
-- Blocks
-- Encryption
-- Distributed Systems
-- Consensus
+These can be broken down into 6 areas:
+- Transaction/Blocks
+- Digital Signature
+- Distributed to network
+- Verified / Consensus
+- Blocks are chained together, showing the history of transactions in chronological order
 
 ## Blocks
 
-- Explanation
-- Analogy
+Explanation: 
+This is a bunch of transactions, checked & squashed into a block.
 
-<!--- 
+<pre>
+Analogy; Christmas
+  - Each person getting a present = Transaction/Record
+  - Each present wrapping their presents in their own wrapping paper (grandparents always use the same wrapping paper, every year 😅) = Block
+  - Those wrapped presents are added to the Christmas tree = Blockchain 
+</pre>
+
+<pre>
+ Analogy; Bank account
+  - Your bank statement = Blockchain 
+  - Receipt of all your shopping items = Block
+  - Each item on that shopping receipt = Transaction/Record
+ </pre>
  
-- You have a business that is raising money
-- You recieve your first donations from 4 strangers 1️⃣, 2️⃣, 3️⃣ & 4️⃣
-- Those transactions are saved into a block 🔢
-- That block is check by all nodes / computers and verified to be true.
-- Another 4 people send money, so another block is created to fit those new transactions 🔢⛓🔢
-- Then another set of 4 people each send more money 🔢⛓🔢⛓🔢 ... Can you see the block & chains, blockchain forming.
+ <pre>
+ Analogy; Raising money for a business
+  - You have a business that is raising money
+  - You recieve your first donations from 4 strangers 1️⃣, 2️⃣, 3️⃣ & 4️⃣
+  - Those transactions are check by all nodes / computers
+  - If verified to be true, those transactions are saved into a block 🔢
+  - Another 4 people send money, so again, those transactions are checked and another block is created to fit those new transactions 🔢⛓🔢
+  - Then the process repeats again 🔢⛓🔢⛓🔢 ... Can you see the block & chains ... blockchain forming?
+</pre>
 
-OR
-
-- Say you're saving money for a holiday with friends
-- You set up a joint account
-- You each put your share of the money into a joint account
-- Everyone can then see the account has been filled, so you all confirm you have reached your target
-- Then you start a new joint account for another holiday, ect.
-
--->
+<pre>
+ Analogy; Saving money for a holiday with friends
+  - We've all got friends who are the most responsible, in this example we'll name them Alice, Bob, Lucy & Alejandro. They're each responsible for collecting money for a different thing, let's say flights, hotel & activities.
+  - We each send our share of the money to them = Transaction/Record 1️⃣, 2️⃣, 3️⃣ & 4️⃣
+  - Once Alice has recieved collected the money for the flights she'll check and everyone has paid = Block 🔢 
+  - Bob repeats = Block 🔢
+  - Lucy repeats = Block 🔢 
+  - All that money is moved the the holiday account so we can go on a great holiday ☀ 🍹 = Blockchain 🔢⛓🔢⛓🔢
+</pre>
 
 ## Encryption
 
