@@ -68,8 +68,8 @@ Analogy; Christmas
 
 ## Encryption
 
-- Explanation
-- Analogy
+- This is simply a way of scrambling a message (by using one or more mathematical techniques and algorythms) so strangers and people that you don't want to read it won't be able to understand it. The only way to make it readable again is by having the password or the key. There are a variety of encryption methods which we can cover in another section.
+- Analogy ...
 
 ## Distributed Systems
 
