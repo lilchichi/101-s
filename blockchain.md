@@ -73,18 +73,36 @@ Analogy; Christmas
 
 ## Distributed Systems
 
-- Explanation
-- Analogy
+- A distributed system is a system that spread across smaller systems, meaning all of the power is not in one specific place, this means that it is much harder to hack / infiltrate these types of systems as you would have to take down all of the smaller systems and there could be many.
+- Analogy ...
 
 ## Consensus
 
-- Explanation
-- Analogy
+- Consensus is a way for a group to agree, specifically with blockchain we are referring to a group/network of computers agreeing that a transaction is correct.
+
+<pre>
+Analogy; Voting
+  - Each person votes (digitally or on paper), then submits their vote = Transaction/Record
+  - All votes are counted, by several different groups = Consensus method
+  - Groups who counted the votes, share results and agree the numbers are correct = Consensus reached
+</pre>
+
+<pre>
+Analogy; Wedding
+  - Two people are being married = Transaction/Record
+  - The crowd are asked to speak if they do not agree = Consensus method
+  - If everyone stays quiet and allows the wedding to continue a non-verbal agreement has been reached = Consensus reached
+</pre>
 
 # How can it be used for?
 
 - Storing confidential information
+  - Passwords
+  - Writing 
 - Making sure information is not tampered with & changed
+  - Contracts
+  - Receipts
+  - Goverment or council spending 
 
 # Why is it important?
 
