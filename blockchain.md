@@ -26,7 +26,7 @@ These can be broken down into 6 areas:
 - Digital Signature
 - Distributed to network
 - Verified / Consensus
-- Blocks are chained together, showing the history of transactions in chronological order
+- Blocks are chained together, showing the history of transactions in chronological order.
 
 ### Blocks
 
@@ -35,36 +35,36 @@ This is a bunch of transactions, checked & squashed into a block.
 
 <pre>
 Analogy; Christmas
-  - Each person getting a present = Transaction/Record
-  - Each present wrapping their presents in their own wrapping paper (grandparents always use the same wrapping paper, every year 😅) = Block
-  - Those wrapped presents are added to the Christmas tree = Blockchain
+  1. Each person getting a present = Transaction/Record.
+  2. Each present wrapping their presents in their own wrapping paper (grandparents always use the same wrapping paper, every year 😅) = Block.
+  3. Those wrapped presents are added to the Christmas tree = Blockchain.
 </pre>
 
 <pre>
  Analogy; Bank account
-  - Your bank statement = Blockchain
-  - Receipt of all your shopping items = Block
-  - Each item on that shopping receipt = Transaction/Record
+  1. Your bank statement = Blockchain.
+  2. Receipt of all your shopping items = Block.
+  3. Each item on that shopping receipt = Transaction/Record.
  </pre>
 
  <pre>
- Analogy; Raising money for a business
-  - You have a business that is raising money
-  - You recieve your first donations from 4 strangers 1️⃣, 2️⃣, 3️⃣ & 4️⃣
-  - Those transactions are check by all nodes / computers
-  - If verified to be true, those transactions are saved into a block 🔢
-  - Another 4 people send money, so again, those transactions are checked and another block is created to fit those new transactions 🔢⛓🔢
-  - Then the process repeats again 🔢⛓🔢⛓🔢 ... Can you see the block & chains ... blockchain forming?
+ Analogy; Raising money for a business.
+  1. You have a business that is raising money.
+  2. You recieve your first donations from 4 strangers 1️⃣, 2️⃣, 3️⃣ & 4️⃣.
+  3. Those transactions are check by all nodes / computers.
+  4. If verified to be true, those transactions are saved into a block 🔢.
+  5. Another 4 people send money, so again, those transactions are checked and another block is created to fit those new transactions 🔢⛓🔢.
+  6. Then the process repeats again 🔢⛓🔢⛓🔢 ... Can you see the block & chains ... blockchain forming?
 </pre>
 
 <pre>
  Analogy; Saving money for a holiday with friends
-  - We've all got friends who are the most responsible, in this example we'll name them Alice, Bob, Lucy & Alejandro. They're each responsible for collecting money for a different thing, let's say flights, hotel & activities.
-  - We each send our share of the money to them = Transaction/Record 1️⃣, 2️⃣, 3️⃣ & 4️⃣
-  - Once Alice has recieved collected the money for the flights she'll check and everyone has paid = Block 🔢
-  - Bob repeats = Block 🔢
-  - Lucy repeats = Block 🔢
-  - All that money is moved the the holiday account so we can go on a great holiday ☀ 🍹 = Blockchain 🔢⛓🔢⛓🔢
+  1. We've all got friends who are the most responsible, in this example we'll name them Alice, Bob, Lucy & Alejandro. They're each responsible for collecting money for a different thing, let's say flights, hotel & activities.
+  2. We each send our share of the money to them = Transaction/Record 1️⃣, 2️⃣, 3️⃣ & 4️⃣
+  3. Once Alice has recieved collected the money for the flights she'll check and everyone has paid = Block 🔢
+  4. Bob repeats = Block 🔢
+  5. Lucy repeats = Block 🔢
+  6. All that money is moved the the holiday account so we can go on a great holiday ☀ 🍹 = Blockchain 🔢⛓🔢⛓🔢
 </pre>
 
 ### [Encryption](/encryption)
@@ -83,31 +83,44 @@ Analogy; Christmas
 
 <pre>
 Analogy; Voting
-  - Each person votes (digitally or on paper), then submits their vote = Transaction/Record
-  - All votes are counted, by several different groups = Consensus method
-  - Groups who counted the votes, share results and agree the numbers are correct = Consensus reached
+  1. Each person votes (digitally or on paper), then submits their vote = Transaction/Record.
+  2. All votes are counted, by several different groups = Consensus method.
+  3. Groups who counted the votes, share results and agree the numbers are correct = Consensus reached.
 </pre>
 
 <pre>
 Analogy; Wedding
-  - Two people are being married = Transaction/Record
-  - The crowd are asked to speak if they do not agree = Consensus method
-  - If everyone stays quiet and allows the wedding to continue a non-verbal agreement has been reached = Consensus reached
+  1. Two people are being married = Transaction/Record.
+  2. The crowd are asked to speak if they do not agree = Consensus method.
+  3. If everyone stays quiet and allows the wedding to continue a non-verbal agreement has been reached = Consensus reached.
 </pre>
 
 ## How can it be used for?
 
-- Storing confidential information
+- Storing confidential information.
   - Passwords
   - Writing
-- Making sure information is not tampered with & changed
+- Making sure information is not tampered with, changed or deleted.
   - Contracts
   - Receipts
-  - Goverment or council spending
+  - Goverment or council spending.
+  - Communication like emails, messages, videos or publications.
 
 ## Why is it important?
 
 - Trustless
+
+  - People & companies usually have their own motives that they don't share.
+  - It can be difficult to trust strangers to keep their word, stick to an agreement or a contract.
+  - So by knowing that the code will execute as intended from start to finish allows you to relax and not worry about the trust issue that comes with trading or transacting with friends, colleagues, strangers and companies.
+
 - Tranparancy
+
+  - The code is there to see, although it can be tricky to read and understand, admittedly that is an area which needs to be improved (translating smart contracts into understandable contracts so individuals can read what they are signing in English as a pose to reading it in solidity).
+
 - Freedom
+
+  - ...
+
 - Privacy
+  - ...
