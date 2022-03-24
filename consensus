@@ -1,1 +1,9 @@
 # Consensus 🤝
+
+- Consensus is a way for a group to agree, specifically with blockchain we are referring to a group/network of computers agreeing that a transaction is correct.
+
+In the previous article we gave a very basic overview of consensus and some real world examples, now I'd like to dig a bit deeper and reveiw different types of types of consensus that are used by blockchain networks.  
+
+Yes, you read correctly, there are several and more are being worked on, a mix of completely new methods and some that are iterations of current consensus methods.
+
+Let's 
