@@ -37,12 +37,12 @@ This is a bunch of transactions, checked & squashed into a block.
 Analogy; Christmas
   - Each person getting a present = Transaction/Record
   - Each present wrapping their presents in their own wrapping paper (grandparents always use the same wrapping paper, every year 😅) = Block
-  - Those wrapped presents are added to the Christmas tree = Blockchain 
+  - Those wrapped presents are added to the Christmas tree = Blockchain
 </pre>
 
 <pre>
  Analogy; Bank account
-  - Your bank statement = Blockchain 
+  - Your bank statement = Blockchain
   - Receipt of all your shopping items = Block
   - Each item on that shopping receipt = Transaction/Record
  </pre>
@@ -61,23 +61,23 @@ Analogy; Christmas
  Analogy; Saving money for a holiday with friends
   - We've all got friends who are the most responsible, in this example we'll name them Alice, Bob, Lucy & Alejandro. They're each responsible for collecting money for a different thing, let's say flights, hotel & activities.
   - We each send our share of the money to them = Transaction/Record 1️⃣, 2️⃣, 3️⃣ & 4️⃣
-  - Once Alice has recieved collected the money for the flights she'll check and everyone has paid = Block 🔢 
+  - Once Alice has recieved collected the money for the flights she'll check and everyone has paid = Block 🔢
   - Bob repeats = Block 🔢
-  - Lucy repeats = Block 🔢 
+  - Lucy repeats = Block 🔢
   - All that money is moved the the holiday account so we can go on a great holiday ☀ 🍹 = Blockchain 🔢⛓🔢⛓🔢
 </pre>
 
-### Encryption
+### [Encryption](/encryption)
 
 - This is simply a way of scrambling a message (by using one or more mathematical techniques and algorythms) so strangers and people that you don't want to read it won't be able to understand it. The only way to make it readable again is by having the password or the key. There are a variety of encryption methods which we can cover in another section.
 - Analogy ...
 
 ### Distributed Systems
 
-- A distributed system is a system that spread across smaller systems, meaning all of the power is not in one specific place, this means that it is much harder to hack / infiltrate these types of systems as you would have to take down all of the smaller systems and there could be many.
+- A distributed system is a system that spread across smaller systems, meaning all of the power is not in one specific place, this means that it is much harder to hack / infiltrate these types of systems as you would have to take down all of the smaller systems and there could be many. This is sometimes confused with [decentralised systems](/decentralisation).
 - Analogy ...
 
-### Consensus
+### [Consensus](/consensus)
 
 - Consensus is a way for a group to agree, specifically with blockchain we are referring to a group/network of computers agreeing that a transaction is correct.
 
