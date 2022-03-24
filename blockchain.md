@@ -4,11 +4,11 @@ Buzzword of the century, probably.
 
 ## What is it?
 
-"A blockchain is a peer-to-peer network, using cryptographic functions to create a distributed ledger of immutable, or tamperproof, transactions"
+> A blockchain is a peer-to-peer network, by using cryptographic functions to create a distributed ledger of immutable, or tamperproof, transactions.
 
-Done, see you next week.
+Done, see you next week 👋
 
-Just kidding, a simpler explanation would be along the lines of "a blockchain is a database made up of blocks of information, that's shared across a number of computers, who make that work together to make sure the data isn't messed with by making constant checks"
+Just kidding, a simpler explanation would be along the lines of > "a blockchain is a database made up of blocks of information, that's shared across a number of computers, who make that work together to make sure the data isn't messed with by making constant checks"
 
 ## Ok, so how does that happen?
 
