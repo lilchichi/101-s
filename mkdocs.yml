@@ -11,8 +11,8 @@ repo_name: '101s'
 repo_url: https://github.com/lilchichi/101s
 
 nav:
-  - Home: 'readme.md'
-  - Blockchain 101: 'blockc'
+  - Home: '../readme.md'
+  - Blockchain 101: '../blockchain.md'
 
 # Theme configuration
 theme:
