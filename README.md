@@ -4,7 +4,7 @@ A short-side project to help me improve my knowledge across the web3 space.
 
 ## Why?
 
-🤓 I've always thought that if you can break down concepts into understanable chunks then it helps you learn & also others too - So that's what I'm doing, creating 101's and/or intro's into topics
+🤓 I've always thought that if you can break down concepts into understandable chunks then it helps you learn & also others too - So that's what I'm doing, creating 101's and/or intro's into topics
 
 📚 My approach will be pretty simple, as if I were explaining to my parents, then build up slowly.
 
