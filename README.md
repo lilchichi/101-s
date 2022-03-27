@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to 101's
 
 A short-side project to help me improve my knowledge across the web3 space.
 
