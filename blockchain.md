@@ -112,17 +112,23 @@ Analogy; Wedding
 
   - People & companies usually have their own motives that they don't share.
   - It can be difficult to trust strangers to keep their word, stick to an agreement or a contract.
-  - So by knowing that the code will execute as intended from start to finish allows you to relax and not worry about the trust issue that comes with trading or transacting with friends, colleagues, strangers and companies.
+  - So using [smart contracts](smart%20contracts.md) as an example which are contracts written in code, the code will execute as intended from start to finish allowing you to relax and not worry about the trust issue that comes with trading or transacting with friends, colleagues, strangers and companies, etc.
+  - The code is there to see, although it can be tricky to read and understand, admittedly that is an area which needs to be improved (translating smart contracts into understandable contracts so individuals can read what they are signing in English as a pose to reading it in solidity).
+    ... For example, the recent continuous hikes in energy costs are very striking as we are at the mercy of the energy companies, however if our contracts/agreements were in smart contracts they would not be able to continuously raise the prices of energy consumption as they currently are.
+    ... Another example is with politicians, we all know one thing is certain, that they can't be trusted because as time has shown they promise the world and then as soon as they are voted in they change their policies, again with smart contracts there could be certain deadlines for each proposal they outline & perhaps when the success percentage drops below a certain number; let's say they fall behind target by 50%, the contract would automatically set off a re-election, that way we don't have to trust empty promises but instead trust the immutable agreements.
 
 - Tranparancy
 
-  - The code is there to see, although it can be tricky to read and understand, admittedly that is an area which needs to be improved (translating smart contracts into understandable contracts so individuals can read what they are signing in English as a pose to reading it in solidity).
+- ... For example, since politicians usually throw money at most problems, assuming they used a public blockchain, the public could easily follow the money and therefore track every single transaction they made as well as follow, which would help with the accountability across goverment spending and check if it is being used in the publics best interest.
 
 - Freedom
 
   - The freedom to transact, communicate and learn without oversight is important for many reasons.
   - Freedom to education, some people are banned from certain literatures due to having authoritarian governments / leaders, for example in Cuba, North Korea and other countries reading anti-government or anti-state literature can be seen as illegal and can result in people being improsened or disapearing.
+    ... For example, in Cuba there are so many black markets due to the restriction & censorship of books that the goverment see as dangerous, which is another way to say "we're scared of education & would like to keep the population ignorant"
   - Also communicating without feeling that someone would listen or sharing to your conversation is ideal, as this is a slipery slope to censorship.
+    ... For example, even in developed countries, we all know that services like WhatsApp pick up keywords from your conversations and use those as targetted advertising, if you'd like to prove it, it's best to try an experiment by setting aside 1hr per day for a week, choose a random but very specific topic to discuss with a friend/partner such as "xyz" then check your advertisement results across instagram, facebook & even google _(Spoiler alert, you'll randomly get advertisements for products/services that provide "xyz")_.
 
 - Privacy
   - We all deserve privacy to be our authentic self, especially in the modern age of social media where products / services are designed to make syour life as public as possible, cancel culture, selling of our data to marketing companies who in turn push products, services & agendas as well as political propoganda onto us via targetted advertising, and some employers snooping into your life outside of work.
+    ... For example, cambridge analytica using targetted advertising to push political propaganda, fake news and fear to effect election results helping political parties across both UK, USA and many other countries.
