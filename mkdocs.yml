@@ -6,6 +6,10 @@ site_url: https://github.com/lilchichi/101s
 site_author: 'lilchichi'
 site_description: ' Blockchain 101s '
 
+# Project directories
+docs_dir: '101-s'
+site_dir: '101-s'
+
 # Repository
 repo_name: '101s'
 repo_url: https://github.com/lilchichi/101s
