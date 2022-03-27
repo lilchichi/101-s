@@ -70,7 +70,20 @@ Analogy; Christmas
 ### [Encryption](/encryption)
 
 - This is simply a way of scrambling a message (by using one or more mathematical techniques and algorythms) so strangers and people that you don't want to read it won't be able to understand it. The only way to make it readable again is by having the password or the key. There are a variety of encryption methods which we can cover in another section.
-- Analogy ...
+
+<pre>
+Analogy; Passing notes at school
+  1. Remember passing notes to friends during class in school?
+  2. It would usually involve asking someone to pass on a message scribbled down on a piece of paper to your friend at the other end of the class.
+  3. However it could be read by one of the students passing it on or worse, intercepted and read by the teacher.
+  4. So usually kids would use funny ways of encrypting the message which could be either using slang, backwards alphabet or even writing in code.
+  ... Below are a few examples:
+
+![Elementary School Cipher](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_1000/MTc2MjY5NzAwNDUwMjk3MDIy/codes-ciphers-cryptology-and-teasers.webp)
+
+![Hieroglyphics/Codes](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_1000/MTc2MjY5NzAwNDUwMjMxNDg2/codes-ciphers-cryptology-and-teasers.webp)
+
+</pre>
 
 ### Distributed Systems
 
@@ -119,7 +132,8 @@ Analogy; Wedding
 
 - Tranparancy
 
-- ... For example, since politicians usually throw money at most problems, assuming they used a public blockchain, the public could easily follow the money and therefore track every single transaction they made as well as follow, which would help with the accountability across goverment spending and check if it is being used in the publics best interest.
+  - The ability for information to be public and / or truthful, so what we're being told by the news, seeing online and reading can be verified and checked with other open-sources, web3 holds this principle close which is why most of the projects are open-source allowing anyone to view and even contribute to their codebase & overall project.
+  - ... For example, since politicians usually throw money at most problems, assuming they used a public blockchain, the public could easily follow the money and therefore track every single transaction they made as well as follow, which would help with the accountability across goverment spending and check if it is being used in the publics best interest.
 
 - Freedom
 
