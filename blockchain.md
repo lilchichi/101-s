@@ -120,7 +120,9 @@ Analogy; Wedding
 
 - Freedom
 
-  - ...
+  - The freedom to transact, communicate and learn without oversight is important for many reasons.
+  - Freedom to education, some people are banned from certain literatures due to having authoritarian governments / leaders, for example in Cuba, North Korea and other countries reading anti-government or anti-state literature can be seen as illegal and can result in people being improsened or disapearing.
+  - Also communicating without feeling that someone would listen or sharing to your conversation is ideal, as this is a slipery slope to censorship.
 
 - Privacy
-  - ...
+  - We all deserve privacy to be our authentic self, especially in the modern age of social media where products / services are designed to make syour life as public as possible, cancel culture, selling of our data to marketing companies who in turn push products, services & agendas as well as political propoganda onto us via targetted advertising, and some employers snooping into your life outside of work.
