@@ -69,7 +69,8 @@ Analogy; Christmas
 
 ### [Encryption](/encryption)
 
-- This is simply a way of scrambling a message (by using one or more mathematical techniques and algorythms) so strangers and people that you don't want to read it won't be able to understand it. The only way to make it readable again is by having the password or the key. There are a variety of encryption methods which we can cover in another section.
+Explanation:
+This is simply a way of scrambling a message (by using one or more mathematical techniques and algorythms) so strangers and people that you don't want to read it won't be able to understand it. The only way to make it readable again is by having the password or the key. There are a variety of encryption methods which we can cover in another section.
 
 <pre>
 Analogy; Passing notes at school
@@ -82,7 +83,6 @@ Analogy; Passing notes at school
 ![Elementary School Cipher](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_1000/MTc2MjY5NzAwNDUwMjk3MDIy/codes-ciphers-cryptology-and-teasers.webp)
 
 ![Hieroglyphics/Codes](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_1000/MTc2MjY5NzAwNDUwMjMxNDg2/codes-ciphers-cryptology-and-teasers.webp)
-
 </pre>
 
 ### Distributed Systems
@@ -92,7 +92,8 @@ Analogy; Passing notes at school
 
 ### [Consensus](/consensus)
 
-- Consensus is a way for a group to agree, specifically with blockchain we are referring to a group/network of computers agreeing that a transaction is correct.
+Explanation:
+Consensus is a way for a group to agree, specifically with blockchain we are referring to a group/network of computers agreeing that a transaction is correct.
 
 <pre>
 Analogy; Voting
