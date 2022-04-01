@@ -2,28 +2,37 @@
 
 This is one of the most difficult problems facing the blockchain industry.
 
-It's known as the blockchain trilema, introduced by ya boi Vitalik that proposes that there are three core pillars to blockchain which are decentralization, security and scalability, however the issue comes when trying to find a balance between all three, so trade-offs are made which leads to one of the three pillars being abandoned.
+It's known as the blockchain trilema, introduced by ya boi Vitalik that proposes that there are three core pillars to blockchain which are decentralization, security and scalability.
 
-perfect blockchain boasts three elements: Security, decentralization, and scalability. But finding a balance between the three is a common problem that teams encounter when building blockchains, forcing them to ultimately sacrifice one "aspect" for as a trade-off to accommodate the other two.
+However the issue comes when trying to find a balance between all three, so trade-offs are made which leads to one of the three pillars being abandoned and just sticking to two.
 
-For example:
+## For example:
 
-- Bitcoin focuses on decentralisation & security, however it has problems with
-- Ethereum focuses on decentralisation & security.
-- Ripple focuses on security & scalabilty
-- Binance focuses on security & scalabilty
+- Bitcoin focuses on decentralisation & security, however it has problems with scalability.
+- Ethereum focuses on decentralisation & security, but it also has had issues with scalability.
+- Ripple focuses on security & scalabilty but is completely centralised so it abandoned the decentralisation pillar.
+- Binance focuses on security & scalabilty and also has abandoned the decentralisation pillar.
 
-There are some solutions being worked on, such as:
+## There are some solutions being worked on, such as:
 
-- Sharding: In ethereums case, the network is so large and can only process so many transactions so this is where sharding comes in. The idea is that the network would be split up into smaller chunks/shards which each handles seperate transactions, this way the network can scale & keep security & decentralisation.
-  ... A really simplistic analogy would be a car, imagine driving but with no mirrors, you would have to check the back of the car, the side, your blindspots, perhaps even space near the tires when you're parking, ofcourse doing this whilst driving would make be difficult as you'd struggle to divide your focus evenly across all those areas (if you don't agree, imagine you're sitting in a car and physically having to turn to check all those spots mentioned above, might be hard to keep your eye on the road and simulatniously be consntantly turning your body), that's the ethereum network at the moment with so many transactions without the scalability to review them all fast enough. Now by adding wing mirrors and a rear view mirror, wide angle mirrors & curb mirrors you can check all of those spots with just a quick glance and at the most a quick turn of your head, you're able to do so much more with so much little effort ... That's a sharding.
-
-- Sidechains: These are complimentary blockchains that take the stress and workload from larger networks in order to help process transactions and increase scalability. For example Ethereum is focuses on decentralisation & security but can be slow when it comes to scalability which is where Polygon can come in and help which is a sidechain that focuses on scalability and security.
-  ... A really simplistic analogy would be a highway, imagine driving on the m25 (UK), but it only had one lane, during peak times a normal 1 hour journey would probably take over 4hrs. By adding extra lanes this would eleviate the traffic and allow for fast or at least normal journey times ... That's a sidechain.
-
+- Sharding
+- Sidechains
 - State channels
-
 - Nested blockchains
+
+### Sharding:
+
+In ethereums case, the network is so large and can only process so many transactions so this is where sharding comes in. The idea is that the network would be split up into smaller chunks/shards which each handles seperate transactions, this way the network can scale & keep security & decentralisation.
+... A really simplistic analogy would be a car, imagine driving but with no mirrors, you would have to check the back of the car, the side, your blindspots, perhaps even space near the tires when you're parking, ofcourse doing this whilst driving would make be difficult as you'd struggle to divide your focus evenly across all those areas (if you don't agree, imagine you're sitting in a car and physically having to turn to check all those spots mentioned above, might be hard to keep your eye on the road and simulatniously be consntantly turning your body), that's the ethereum network at the moment with so many transactions without the scalability to review them all fast enough. Now by adding wing mirrors and a rear view mirror, wide angle mirrors & curb mirrors you can check all of those spots with just a quick glance and at the most a quick turn of your head, you're able to do so much more with so much little effort ... That's a sharding.
+
+### Sidechains:
+
+These are complimentary blockchains that take the stress and workload from larger networks in order to help process transactions and increase scalability. For example Ethereum is focuses on decentralisation & security but can be slow when it comes to scalability which is where Polygon can come in and help which is a sidechain that focuses on scalability and security.
+... A really simplistic analogy would be a highway, imagine driving on the m25 (UK), but it only had one lane, during peak times a normal 1 hour journey would probably take over 4hrs. By adding extra lanes this would eleviate the traffic and allow for fast or at least normal journey times ... That's a sidechain.
+
+### State channels
+
+### Nested blockchains
 
 Greater adoption would allow more great minds to come together, experiment and through trial & error find solutions which in turn would allow for wider spread use of blockchain technology.
 
