@@ -4,21 +4,23 @@ Buzzword of the century, probably.
 
 ## What is it?
 
-> A blockchain is a peer-to-peer network, by using cryptographic functions to create a distributed ledger of immutable, or tamperproof, transactions.
+> A blockchain is a peer-to-peer network, that uses cryptographic functions to create a distributed ledger of immutable or tamperproof transactions.
 
 Done, see you next week 👋
 
-Just kidding, a simpler explanation would be along the lines of > "a blockchain is a database made up of blocks of information, that's shared across a number of computers, who make that work together to make sure the data isn't messed with by making constant checks"
+Just kidding, a simpler explanation would be along the lines of:
+
+> "a blockchain is a database made up of blocks of information, that's shared across a number of computers, who make that work together to make sure the data isn't messed with by making constant checks"
 
 ## Ok, so how does that happen?
 
-1. The transaction is recorded in a record.
+1. The transaction is saved in a record.
 2. The computers in the network look at the trade and make sure that it is a real trade or transaction. This is a decentralized process that occurs among the different nodes of the network called consensus.
 3. As each transaction is verified and accepted as being real, it’s added to a block.
-4. Each block contains a code called a hash that is unique to that block. The block carries its own hash and the hash of the block before it so that users always know where the block should be located in the chain.
+4. Each block contains a code called a hash that is unique to that block. The block carries two hashes, one is it's own has and the second is the hash from the previous block, that way we always know where the block should be located in the chain.
 5. Once the block is complete it is added to the chain, the hash that it carries ensures that it is in proper chronological order.
 
-If you have a good idea of what the blockchain is, then great. If you'd like to dig a little further, read below for a further breakdown with some analogies 👇
+If you have some kind of idea of what the blockchain is, then great. If you'd like to dig a little further, read below for a further breakdown with some analogies 👇
 
 These can be broken down into 6 areas:
 
